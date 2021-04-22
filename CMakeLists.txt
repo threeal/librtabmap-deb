@@ -28,6 +28,6 @@ set(CPACK_DEBIAN_PACKAGE_MAINTAINER "Alfi Maulana <alfi.maulana.f@gmail.com>")
 set(CPACK_DEBIAN_PACKAGE_HOMEPAGE "http://introlab.github.io/rtabmap")
 
 set(CPACK_DEBIAN_PACKAGE_DEPENDS
-  "libceres-dev, libdc1394-dev, libeigen3-dev, libflann-dev, libfreenect-dev, libgflags-dev, liboctomap-dev, libomp-dev, libopencv-dev, libopenni-dev, libpcl-dev, libsqlite3-dev, libsuitesparse-dev, libqhull-dev, libusb-dev, zlib1g-dev")
+  "libceres-dev, libeigen3-dev, libflann-dev, libfreenect-dev, libgflags-dev, liboctomap-dev, libopencv-dev, libopenni-dev, libpcl-dev, libsqlite3-dev, libsuitesparse-dev, libqhull-dev, zlib1g-dev")
 
 include(CPack)

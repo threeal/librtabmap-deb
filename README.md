@@ -27,7 +27,7 @@ This project is created to simplify the deployment of the library as a [Debian p
   ```
 - Configure the CMake.
   ```bash
-  $ cmake ..
+  $ cmake -DCMAKE_INSTALL_PREFIX=/usr ..
   ```
 - Build the project.
   ```bash
