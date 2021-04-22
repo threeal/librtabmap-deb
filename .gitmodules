@@ -1,0 +1,4 @@
+[submodule "rtabmap"]
+	path = rtabmap
+	url = https://github.com/introlab/rtabmap
+	branch = master
